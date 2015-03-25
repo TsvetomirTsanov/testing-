@@ -57,3 +57,4 @@ def group(smt):
     for i in smt:
         for i in smt:
             pass
+            pass
