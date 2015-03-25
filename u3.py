@@ -55,6 +55,4 @@ def group(smt):
     s = []
     res = []
     for i in smt:
-        for i in smt:
-            pass
-            pass
+        for i in smt
